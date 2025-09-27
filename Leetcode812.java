@@ -18,8 +18,4 @@ public class Leetcode812 {
         }
         return maxArea;
     }
-    public static void main(String[] args) {
-        int points[][] = {{0,0},{0,1},{1,0},{0,2},{2,0}};
-        System.out.println(largestTriangleArea(points));
-    }
 }
